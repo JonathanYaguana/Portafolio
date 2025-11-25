@@ -1,6 +1,7 @@
 # Portafolio
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.12.
+And [TailwindCSS](https://tailwindcss.com/docs/installation/framework-guides/angular)
 
 ## Development server
 
