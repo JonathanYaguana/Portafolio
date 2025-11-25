@@ -1,0 +1,17 @@
+/node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+.git
+.editorconfig
+/e2e
+/gitignore
+*.zip
+*.md
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/*
