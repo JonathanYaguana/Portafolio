@@ -1,9 +1,9 @@
 import { ChangeDetectionStrategy, Component } from '@angular/core';
 
 @Component({
-  selector: 'app-navbar-component',
+  selector: 'skills-component',
   imports: [],
-  templateUrl: './navbar-component.html',
+  templateUrl: './skills-component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
-export class NavbarComponent { }
+export class SkillsComponent { }
