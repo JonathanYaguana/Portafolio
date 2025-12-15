@@ -5,6 +5,6 @@ import { Component } from '@angular/core';
   imports: [],
   templateUrl: './projects.component.html',
 })
-export class ProjectsComponent {
+export default class ProjectsComponent {
 
 }
